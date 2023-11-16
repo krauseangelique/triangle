@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(131, 181, 224);
+}
+h2 {color: green;}
+
+#sidebar {color: red;}
+
+#sidebar h2 {color: inherit;}
+
+.triangle{
+    width: 0;
+    height: 0;
+    border-left: 30px solid transparent;
+    border-right: 30px solid transparent;
+    border-bottom: 30px solid #325479;
+}
